@@ -1,0 +1,6 @@
+﻿owner=507946171247886353
+prefix=!
+game= !help
+stayinchannel=true
+songinstatus=false
+token=NTcxODA5OTE3NjkwODM5MDQz.XMTJug.ATEf3IQRcOMYDkPhFhzUhIrFJjY
